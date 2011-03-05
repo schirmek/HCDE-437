@@ -21,10 +21,10 @@ top();
 		<div id="frontfeed">
 		<h1>What's Happening</h1>
 			<div class = "feeditem">
-				<p>Drazam uploaded a photo to Mt. Baker</p>
+				<p><a href="personprofile.php">Drazam</a> uploaded a photo to <a href="resortprofile.php">Mt. Baker </a></p>
 			</div>
 			<div class = "feeditem">
-				<p>Knish wrote a review of Crystal Mountain</p>
+				<p><a href="personprofile.php">Knish</a> wrote a review of Crystal Mountain</p>
 			</div>
 		</div>
 		<div id="map">
